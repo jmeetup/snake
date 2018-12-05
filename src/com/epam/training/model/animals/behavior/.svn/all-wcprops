@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior
+END
+Die.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior/Die.java
+END
+HeadDistCoparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior/HeadDistCoparator.java
+END
+Decreases.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior/Decreases.java
+END
+OptimalFrogJump.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior/OptimalFrogJump.java
+END
+EatableBehavior.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior/EatableBehavior.java
+END
+Increases.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/animals/behavior/Increases.java
+END

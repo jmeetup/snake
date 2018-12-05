@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions
+END
+SnakeSnakeCollisons.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions/SnakeSnakeCollisons.java
+END
+FrogSnakeCollisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions/FrogSnakeCollisions.java
+END
+FrogFrogCollisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions/FrogFrogCollisions.java
+END
+CollisionsInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions/CollisionsInterface.java
+END
+AmphibiaCollisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions/AmphibiaCollisions.java
+END
+SnakeFrogCollisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/2012_2/!svn/ver/771/Oleg_Burshinov/Snake/trunk/src/com/epam/training/model/collisions/SnakeFrogCollisions.java
+END
